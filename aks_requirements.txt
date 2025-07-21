@@ -1,0 +1,18 @@
+My AKS cluster requirements:
+- Use managed node groups with Standard_B2s instances
+- Enable cluster autoscaler for cost optimization
+- Configure Azure Load Balancer Controller
+- Enable Application Insights
+- Implement pod security standards
+- Use spot instances for non-critical workloads
+- Use Azure Monitor for VMs for monitoring
+- Use Azure Policy for governance
+- Use Azure Defender for security
+- Use Azure Key Vault for secrets management
+- Use Azure DevOps for CI/CD
+- Use Azure Monitor for AKS for monitoring
+- Use Azure Policy for governance
+- Use Azure Defender for security
+- Use Azure Monitor for AKS for monitoring
+- Use Azure Policy for governance
+- Use Azure Defender for security

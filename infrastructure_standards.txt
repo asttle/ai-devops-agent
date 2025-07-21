@@ -1,0 +1,7 @@
+My Azure infrastructure standards:
+- Always use private subnets for workloads
+- Enable Network Watcher for security monitoring
+- Use managed identities and service principals with least-privilege access
+- All resources tagged with Environment, Project, Owner
+- Enable encryption at rest and in transit
+- Use managed services when possible (Azure postgres for flexible servers, AKS, etc.)
