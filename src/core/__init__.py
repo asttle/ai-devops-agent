@@ -1,2 +1,0 @@
-from .intelligent_agent import get_intelligent_agent
-from .azure_resource_manager import get_azure_manager
